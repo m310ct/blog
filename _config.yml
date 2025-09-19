@@ -24,7 +24,7 @@ timezone: 'Asia/Shanghai'
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 # url: https://m310ct.com
-https://blog-bvf.pages.dev/
+url: https://blog-bvf.pages.dev
 root: /
 relative_link: true
 # url: http://127.0.0.1:4000
